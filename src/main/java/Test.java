@@ -6,7 +6,6 @@ public class Test {
 
     public void hi(){
         // 修改
-        System.out.println("hi");
-        System.out.println("hifi");
+        System.out.println("last");
     }
 }
