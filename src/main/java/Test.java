@@ -5,6 +5,7 @@ public class Test {
     }
 
     public void hi(){
-        System.out.println("hi");
+        // 修改
+        System.out.println("hello");
     }
 }
