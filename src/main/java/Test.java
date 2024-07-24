@@ -6,6 +6,6 @@ public class Test {
 
     public void hi(){
         // 修改
-        System.out.println("hello");
+        System.out.println("hi");
     }
 }
